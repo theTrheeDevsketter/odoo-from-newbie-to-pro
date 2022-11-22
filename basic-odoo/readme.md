@@ -102,7 +102,7 @@ Realizar el proyecto con docker nos da mas flexibilidad a la hora de desarrollar
 - Sistema operativo elegido, versión y si han usado o no el subsistema wsl. :
     En mi caso el contenedor de Odoo y PostgresSql se ha realizado en Windows 11 sin wsl.
 - Una captura de pantalla donde se muestren los contenedores de Odoo iniciados. 
-    ![docker up in visual studio code](./assets/img/localhostodoo-idaira.png)
+    ![docker up in visual studio code](./assets/img/odoorunning-idaira.png)
 - Una captura de pantalla con la web de presentación de la aplicación Odoo. 
   - ![example of odoo running in docker](./assets/img/appodoo-idaira.png)
 ### Adriel
