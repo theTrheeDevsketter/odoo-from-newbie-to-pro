@@ -118,5 +118,9 @@ En mi caso he decidido usar Ubuntu para levantar un contenedor de odoo + Postgre
 ![example of odoo running in docker](./assets/img/test-odoo.png)
 ### Nestor
 - Sistema operativo elegido, versión y si han usado o no el subsistema wsl. 
+    He usado el sistema operativo que uso como cabecera: Kubuntu 22.04.
 - Una captura de pantalla donde se muestren los contenedores de Odoo iniciados. 
+  ![docker-desktop in Kubuntu](./assets/img/docker-containers.png)
 - Una captura de pantalla con la web de presentación de la aplicación Odoo. 
+  ![Odoo in kubuntu](./assets/img/odoo-inicio.png)
+  
