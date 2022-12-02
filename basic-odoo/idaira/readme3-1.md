@@ -23,3 +23,16 @@
 
 - Lleva esos presupuestos hasta su último estado detallando los pasos que has tenido que seguir para ello (3 puntos).
 
+![](./assets/punto4%20actividad%203_1.png)
+
+![](./assets/punto4_1%20actividad%203_1.png)
+
+![](./assets/punto4_2%20actividad%203_1.png)
+
+![](./assets/punto4_3%20actividad%203_1.png)
+
+![](./assets/punto4_4%20actividad%203_1.png)
+
+![](./assets/punto4_5%20actividad%203_1.png)
+
+![](./assets/punto4_6%20actividad%203_1.png)
