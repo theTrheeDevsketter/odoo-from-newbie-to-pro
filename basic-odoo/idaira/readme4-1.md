@@ -1,4 +1,4 @@
-# ejercicio 3.6
+# ejercicio 4.1
 
 ## Sigue los pasos descritos en el documento PDF "Conexión a la Base de datos de Odoo", del apartado Contenidos de esta unidad.
 
